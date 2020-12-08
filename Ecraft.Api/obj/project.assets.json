@@ -6447,11 +6447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft.Api\\Ecraft.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft\\Ecraft.Api\\Ecraft.Api.csproj",
       "projectName": "Ecraft.Api",
-      "projectPath": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft.Api\\Ecraft.Api.csproj",
+      "projectPath": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft\\Ecraft.Api\\Ecraft.Api.csproj",
       "packagesPath": "C:\\Users\\Pedro Augusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft.Api\\obj\\",
+      "outputPath": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft\\Ecraft.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro Augusto\\AppData\\Roaming\\NuGet\\NuGet.Config",

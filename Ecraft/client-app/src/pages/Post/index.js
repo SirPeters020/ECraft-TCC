@@ -9,7 +9,8 @@ function Post() {
   const params = useParams();
 
   const getPost = useCallback(async () => {
-    const feed = await axios.get(`/api/post/${params.slug}`);
+    const feed = await axios.get(`/api/home/post/${params.slug}`);
+    console.log(params.slug)
     setPost(feed.data);
   }, [setPost, params.slug]);
 

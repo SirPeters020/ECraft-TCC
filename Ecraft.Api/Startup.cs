@@ -67,7 +67,6 @@ namespace Ecraft.Api
             services.AddTransient<UnitOfWorkTags>();
             services.AddTransient<UnitOfWorkUser>();
             services.AddTransient<AesCryptographyService>();
-            services.AddScoped<SeedingService>();
 
         }
 

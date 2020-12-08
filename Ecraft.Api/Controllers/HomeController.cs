@@ -65,5 +65,14 @@ namespace Ecraft.Api.Controllers
             return notification;
         }
 
+        [HttpGet]
+        [Route("post/{slug}")]
+        public async Task<FeedViewModel> EspecifyPost(string slug)
+        {
+            var feed = new FeedViewModel();
+            var itemTeste = feed.SingleItensTeste();
+            return itemTeste;
+        }
+
     }
 }

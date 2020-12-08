@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mRvrLQ635xDAJI2lIP6COBNxSwhvvg+/9D7NHbNulhf4FUfdtGuXNcIj2Xu1y1GoazvjtT8QgzI5vYGNofxKfg==",
+  "dgSpecHash": "b265KC2UPjvWed2PwPjlpLd27HKOt1iGKv5hq7ooFRjeVUMQ7QbQP4RSK4o3iGc/u9BT0MuQ0MgCWrV85xSb1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft.Api\\Ecraft.Api.csproj",
+  "projectFilePath": "C:\\Users\\Pedro Augusto\\Documents\\Aulinhas\\Ecraft\\Ecraft\\Ecraft.Api\\Ecraft.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro Augusto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Pedro Augusto\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -21,7 +21,7 @@ mock.onGet('/api/post/como-bordar-personagens-de-desenhos').reply(200, {
   Term 2
     ~ Definition 2a
     ~ Definition 2b`,
-  tags: ['eslint', 'prettier', 'editorconfig', 'vscode'],
+  tags: ['croche', 'croche-tunisiano', 'croche-avançado'],
   image: '/images/posts/1574678762256.png',
   likes: 10,
   comments: 30,
@@ -40,7 +40,7 @@ mock.onGet('/api/feed').reply(200, {
         name: 'Pedro Augusto',
         avatar: '/images/avatar/maxresdefault.jpg',
       },
-      tags: ['eslint', 'prettier', 'editorconfig', 'vscode'],
+      tags: ['croche', 'croche-tunisiano', 'croche-avançado'],
       image: '/images/posts/plantinha.jpeg',
       likes: 10,
       comments: 30,
